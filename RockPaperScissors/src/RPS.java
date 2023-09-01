@@ -1,3 +1,4 @@
+// Developed by H. Murcia
 public class RPS extends javax.swing.JFrame {
 
     public RPS() {
